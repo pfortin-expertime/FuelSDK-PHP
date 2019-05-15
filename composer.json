@@ -4,7 +4,6 @@
     "license": "MIT",
     "type": "library",
     "minimum-stability": "stable",
-	"version": "1.2.3",
     "require": {
         "ext-curl": "*",
         "ext-openssl": "*",
