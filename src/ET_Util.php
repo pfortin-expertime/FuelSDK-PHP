@@ -288,7 +288,7 @@ class ET_Util
     */
     public static function getSDKVersion()
     {
-        return "FuelSDK-PHP-v1.2.3";
+        return "FuelSDK-PHP-v1.3.0";
     }
 
     /**
